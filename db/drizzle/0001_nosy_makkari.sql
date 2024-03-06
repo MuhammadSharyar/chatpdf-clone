@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "provider" varchar(10) NOT NULL;

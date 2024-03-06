@@ -1,0 +1,1 @@
+ALTER TABLE "chats" ADD COLUMN "file_link" text NOT NULL;
